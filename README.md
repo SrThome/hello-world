@@ -1,3 +1,3 @@
 # hello-world
 Another hello world repository
-# finished the README
+I am a collaborator, a discusser and a doer.
